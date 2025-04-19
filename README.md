@@ -1,5 +1,4 @@
-### TypeScript  from **beginner to advanced** level. This is designed to take you from knowing nothing about TypeScript to being able to use it confidently in real-world projects and large codebases.
-
+### TypeScript  from **beginner to advanced** level
 ---
 
 ## 🧰 **Beginner Level**
